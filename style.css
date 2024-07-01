@@ -1,0 +1,59 @@
+charset-utf-8
+li{
+    color: rgb(255, 255, 255);
+}
+a{
+    color: rgb(255, 255, 255);
+}
+body{
+    background-image: url("imagens/Imagem do WhatsApp de 2024-06-30 à(s) 15.16.33_a24202ae.jpg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+img{
+    
+    border-radius: 20px;
+border-color: brown;
+width: 200px;
+height: 200px;
+}
+div{
+text-align: center;
+}
+#trabalho{
+    height: 250px;
+    width: 400px;
+}
+#seg{
+    height: 450px;
+    width: 500px;
+}
+#ter{
+    height: 450px;
+    width: 500px;
+}
+#qua{
+    height: 450px;
+    width: 500px;
+}
+#qui{
+    height: 450px;
+    width: 500px;
+}
+#sex{
+    height: 450px;
+    width: 500px;
+}
+#B{
+    border-radius: 300px;
+    background-color: aquamarine;
+    color: rgb(0, 0, 0);
+    
+    text-align: center;
+}
